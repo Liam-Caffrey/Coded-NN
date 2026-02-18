@@ -8,5 +8,8 @@ Assignment 1
 11-02-2026 
 + Seccond addition - Adding the base forward pass and updating of Bias and weights through stochastic gradient descent main issue solved, was missing setting j_running to 0 so model would never meet stopping conditions
 
-17-02-2026 16:40
+17-02-2026 
 + third addition task 1 complete - issue fixed about datasets, was using more difficult dataset, expected not to converge
+
+18-02-2026
++ ver 4 task 2 complete
