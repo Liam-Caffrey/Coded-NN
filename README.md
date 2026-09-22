@@ -1,3 +1,5 @@
+# Manually coded Neural Network
+
 # Deep-Learning
 
 Assignment 1
